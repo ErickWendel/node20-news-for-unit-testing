@@ -1,0 +1,1 @@
+try{ for ( await of [ ] ); } catch { }

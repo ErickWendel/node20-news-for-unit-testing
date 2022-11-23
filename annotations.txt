@@ -13,6 +13,9 @@ CallTracker vs mock
   mock.reset 
 
 Node watch
+  --watch 
+  --watch-path
+
   - add support for tests 
   - v18.12.1
       node --watch --test index.test.js
@@ -24,5 +27,5 @@ Node watch
     ./node20 --watch --test index.test.js | npx tap-spec
     https://github.com/nodejs/node/issues/45469
     https://github.com/nodejs/node/pull/45214#issuecomment-1311673737
-    
+
 Correção do tape-spec

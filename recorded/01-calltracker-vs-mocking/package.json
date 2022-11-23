@@ -1,0 +1,16 @@
+{
+  "name": "01-calltracker-vs-mocking",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tap-spec": "^5.0.0"
+  }
+}
